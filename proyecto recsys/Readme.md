@@ -12,4 +12,4 @@ En este archivo se hacen experimentos con el dataset book-crossing. Estos experi
 
 # Análisis de métricas
 
-En este archivo se crean los gráficos de los datos para el análisis. Estos incluyen gráficos de métrica de calidad vs co2, correlaciones entre las eficiencias, métricas de calidad y emisiones de co2 y las intersecciones de las mejores eficiencias y la frontera de Pareto. Este archivo utiliza los archivos csv que se encuentran en el repositorio.  
+En este archivo se crean los gráficos de los datos para el análisis. Estos incluyen gráficos de métrica de calidad vs co2, correlaciones entre las eficiencias, métricas de calidad y emisiones de co2 y las intersecciones de las mejores eficiencias y la frontera de Pareto. Este archivo utiliza los archivos csv que se encuentran en el repositorio. Algunos de los análisis escritos en celdas de texto están desactualizados con respecto a los datos presentados, sobre todo para deepfm, por lo que se recomienda no considerarlos y utilizar este notebook como referencia para las visualizaciones de los resultados y calculo de relaciones estadisticas y no del análisis encontrado en el poster y paper final.
